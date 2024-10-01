@@ -8,8 +8,8 @@ email = outlook.CreateItem(0)
 
 
 # configuratio des infos du e-mail
-email.To = "marcosomarcal@yahoo.com.br"
-email.Subject = "E-mail automático do Python"
+email.To = " "e-mail qui recevra la message" "
+email.Subject = "E-mail automatique avec Python"
 email.HTMLBody = f"""
 <p>Ce e-mail a été envoyé avec le python</p>
 
